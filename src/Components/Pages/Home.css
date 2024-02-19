@@ -1,0 +1,52 @@
+.Banner {
+  background-image: url("../Images//Backgroound.jpg");
+  background-size: cover;
+  width: 100%;
+  height: 110vh;
+}
+
+.Banner-txt {
+  width: 500px;
+  height: 300px;
+  top: 370px;
+  left: 400px;
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+}
+
+.logistics-div {
+  width: 160px;
+  height: 20px;
+  font-size: 10px;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-left: 4px solid yellow;
+  background-color: rgba(9, 18, 66, 0.537);
+}
+
+.txt-span1 {
+  font-size: 39px;
+  font-weight: 800;
+  color: white;
+}
+.txt-span2 {
+  color: white;
+  font-size: 12px;
+}
+.Banner-btn {
+  width: 130px;
+  height: 40px;
+  background: linear-gradient(
+    to right,
+    rgb(255, 182, 41),
+    rgb(255, 218, 86),
+    rgb(255, 215, 166)
+  );
+  border: none;
+  outline: none;
+}

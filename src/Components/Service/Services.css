@@ -1,0 +1,53 @@
+.main-services {
+  width: 100%;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+}
+.main-ser1 {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 150px;
+}
+.main-what {
+  font-size: 17px;
+  width: 100px;
+  padding-left: 5px;
+  border-left: 4px solid rgb(159, 186, 7);
+}
+.main-safe {
+  font-size: 30px;
+  max-width: 220px;
+  font-weight: 600;
+}
+.main-nil {
+  display: flex;
+}
+.main-img5 {
+  width: 50px;
+  height: 50px;
+  padding-right: 20px;
+  border-right: 0.5px solid rgb(223, 220, 220);
+  padding: 10px 20px;
+}
+.main-sub {
+  display: flex;
+  flex-direction: column;
+  margin-left: 15px;
+}
+.main-seaa {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+.main-cotain {
+  max-width: 220px;
+  font-size: 14px;
+  color: rgb(86, 82, 82);
+}
+.main-container6 {
+  display: flex;
+  flex-direction: column;
+  gap: 70px;
+}
